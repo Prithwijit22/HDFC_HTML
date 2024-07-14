@@ -1,0 +1,7 @@
+yfinance==0.2.40
+pandas==2.2.2
+datetime==5.5
+streamlit==1.36.0
+plotly==5.22.0
+darts==0.30.0
+# pickle<=4.0.0
